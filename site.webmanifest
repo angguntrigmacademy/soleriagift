@@ -1,0 +1,21 @@
+{
+  "name": "Soleria Gift",
+  "short_name": "Soleria Gift",
+  "description": "Studio souvenir kantor eksklusif dan merchandise premium.",
+  "icons": [
+    {
+      "src": "assets/img/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1a202c",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/index.html"
+}
